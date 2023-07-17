@@ -1,0 +1,168 @@
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\BaketballGameSimulator2.0.exe.config
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\BaketballGameSimulator2.0.exe
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\BaketballGameSimulator2.0.pdb
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Form1.resources
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Properties.Resources.resources
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.csproj.GenerateResource.cache
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.csproj.CoreCompileInputs.cache
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.exe
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.pdb
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\BouncyCastle.Crypto.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\EntityFramework.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Google.Protobuf.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Compression.LZ4.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Hash.xxHash.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Options.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\MySql.Data.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\MySql.Data.EntityFramework.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Renci.SshNet.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Buffers.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Collections.Immutable.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.ComponentModel.Annotations.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Memory.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Numerics.Vectors.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Ubiety.Dns.Core.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Zstandard.Net.dll
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\EntityFramework.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Google.Protobuf.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Compression.LZ4.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Hash.xxHash.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Options.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\MySql.Data.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\MySql.Data.EntityFramework.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Renci.SshNet.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Buffers.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Collections.Immutable.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Memory.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Numerics.Vectors.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.MainMenu.resources
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.csproj.CopyComplete
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Game.resources
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Parameters_Options.resources
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Player_Menu.resources
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Team_Options.resources
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Resources\loadingScreen.png
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\teste.png
+D:\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.csprojAssemblyReference.cache
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Resources\loadingScreen.png
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\teste.png
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\BaketballGameSimulator2.0.exe.config
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\BaketballGameSimulator2.0.exe
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\BaketballGameSimulator2.0.pdb
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\BouncyCastle.Crypto.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\EntityFramework.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Google.Protobuf.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Compression.LZ4.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Hash.xxHash.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Options.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\MySql.Data.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\MySql.Data.EntityFramework.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Renci.SshNet.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Buffers.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Collections.Immutable.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.ComponentModel.Annotations.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Memory.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Numerics.Vectors.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Ubiety.Dns.Core.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Zstandard.Net.dll
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\EntityFramework.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Google.Protobuf.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Compression.LZ4.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\K4os.Hash.xxHash.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Options.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\MySql.Data.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\MySql.Data.EntityFramework.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\Renci.SshNet.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Buffers.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Collections.Immutable.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Memory.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Numerics.Vectors.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.csprojAssemblyReference.cache
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Form1.resources
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Game.resources
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.MainMenu.resources
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Parameters_Options.resources
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Player_Menu.resources
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Properties.Resources.resources
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2._0.Team_Options.resources
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.csproj.GenerateResource.cache
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.csproj.CoreCompileInputs.cache
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.csproj.CopyComplete
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.exe
+D:\David Important materials\Dave project\FinallyTheTimeHasCome\BaketballGameSimulator2.0\BaketballGameSimulator2.0\obj\Debug\BaketballGameSimulator2.0.pdb

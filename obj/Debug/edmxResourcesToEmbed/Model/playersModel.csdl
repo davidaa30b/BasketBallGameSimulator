@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="playersModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="game_table_guest">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Player_id" Type="Int32" />
+    <Property Name="Name" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="EfficiencyAtTheTime" Type="Double" />
+  </EntityType>
+  <EntityType Name="game_table_host">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Player_id" Type="Int32" />
+    <Property Name="Name" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="EfficiencyAtTheTime" Type="Double" />
+  </EntityType>
+  <EntityType Name="parametars_table">
+    <Key>
+      <PropertyRef Name="Primary_id" />
+    </Key>
+    <Property Name="EfficiancyRaiseMinimum" Type="Int32" />
+    <Property Name="EfficiancyRaiseMaximum" Type="Int32" />
+    <Property Name="EfficiancyDeclineMinimum" Type="Int32" />
+    <Property Name="EfficiancyDeclineMaximum" Type="Int32" />
+    <Property Name="MinimalAgeForDraft" Type="Int32" />
+    <Property Name="MinimalAllowedEfficiancy" Type="Int32" />
+    <Property Name="MaximumAllowedEfficiancy" Type="Int32" />
+    <Property Name="EmotionalConst" Type="Single" />
+    <Property Name="PhysicalConst" Type="Single" />
+    <Property Name="IntellectuallConst" Type="Single" />
+    <Property Name="DailyStatus" Type="Single" />
+    <Property Name="Primary_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="player_character">
+    <Key>
+      <PropertyRef Name="Personal_id" />
+    </Key>
+    <Property Name="Personal_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Firstname" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Lastname" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Positon" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Team" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" />
+    <Property Name="DateOfDraft" Type="DateTime" />
+    <Property Name="DeclineDate" Type="DateTime" />
+    <Property Name="RetireDate" Type="DateTime" />
+    <Property Name="DraftOverall" Type="Double" />
+    <Property Name="MaximumOverall" Type="Double" />
+    <Property Name="DeclineFactor" Type="Double" />
+    <Property Name="RaiseFactor" Type="Double" />
+    <Property Name="EmotionalConst" Type="Double" />
+    <Property Name="PhysicalConst" Type="Double" />
+    <Property Name="IntellectualConst" Type="Double" />
+    <Property Name="DailyStatus" Type="Double" />
+    <Property Name="PeakTimeDay" Type="Time" />
+    <Property Name="EfficeincyToDate" Type="Double" />
+  </EntityType>
+  <EntityType Name="position_of_players_table">
+    <Key>
+      <PropertyRef Name="Position_id" />
+    </Key>
+    <Property Name="Position_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Position" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="teamsinfo">
+    <Key>
+      <PropertyRef Name="Team_id" />
+    </Key>
+    <Property Name="Team_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Location" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Coach" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Manager" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Owner" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EstablishmentDate" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="playersEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="game_table_guest" EntityType="Self.game_table_guest" />
+    <EntitySet Name="game_table_host" EntityType="Self.game_table_host" />
+    <EntitySet Name="parametars_table" EntityType="Self.parametars_table" />
+    <EntitySet Name="player_character" EntityType="Self.player_character" />
+    <EntitySet Name="position_of_players_table" EntityType="Self.position_of_players_table" />
+    <EntitySet Name="teamsinfo" EntityType="Self.teamsinfo" />
+  </EntityContainer>
+</Schema>

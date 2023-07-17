@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="playersModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="8.0" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="game_table_guest">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Player_id" Type="int" />
+    <Property Name="Name" Type="varchar" MaxLength="45" />
+    <Property Name="EfficiencyAtTheTime" Type="double" />
+  </EntityType>
+  <EntityType Name="game_table_host">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Player_id" Type="int" />
+    <Property Name="Name" Type="varchar" MaxLength="45" />
+    <Property Name="EfficiencyAtTheTime" Type="double" />
+  </EntityType>
+  <EntityType Name="parametars_table">
+    <Key>
+      <PropertyRef Name="Primary_id" />
+    </Key>
+    <Property Name="EfficiancyRaiseMinimum" Type="int" />
+    <Property Name="EfficiancyRaiseMaximum" Type="int" />
+    <Property Name="EfficiancyDeclineMinimum" Type="int" />
+    <Property Name="EfficiancyDeclineMaximum" Type="int" />
+    <Property Name="MinimalAgeForDraft" Type="int" />
+    <Property Name="MinimalAllowedEfficiancy" Type="int" />
+    <Property Name="MaximumAllowedEfficiancy" Type="int" />
+    <Property Name="EmotionalConst" Type="float" />
+    <Property Name="PhysicalConst" Type="float" />
+    <Property Name="IntellectuallConst" Type="float" />
+    <Property Name="DailyStatus" Type="float" />
+    <Property Name="Primary_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="player_character">
+    <Key>
+      <PropertyRef Name="Personal_id" />
+    </Key>
+    <Property Name="Personal_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Firstname" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Lastname" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Positon" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Team" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="DateOfBirth" Type="date" />
+    <Property Name="DateOfDraft" Type="date" />
+    <Property Name="DeclineDate" Type="date" />
+    <Property Name="RetireDate" Type="date" />
+    <Property Name="DraftOverall" Type="double" />
+    <Property Name="MaximumOverall" Type="double" />
+    <Property Name="DeclineFactor" Type="double" />
+    <Property Name="RaiseFactor" Type="double" />
+    <Property Name="EmotionalConst" Type="double" />
+    <Property Name="PhysicalConst" Type="double" />
+    <Property Name="IntellectualConst" Type="double" />
+    <Property Name="DailyStatus" Type="double" />
+    <Property Name="PeakTimeDay" Type="time" Precision="0" />
+    <Property Name="EfficeincyToDate" Type="double" />
+  </EntityType>
+  <EntityType Name="position_of_players_table">
+    <Key>
+      <PropertyRef Name="Position_id" />
+    </Key>
+    <Property Name="Position_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Position" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <EntityType Name="teamsinfo">
+    <Key>
+      <PropertyRef Name="Team_id" />
+    </Key>
+    <Property Name="Team_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Location" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Coach" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Manager" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Owner" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="EstablishmentDate" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="playersModelStoreContainer">
+    <EntitySet Name="game_table_guest" EntityType="Self.game_table_guest" Schema="players" store:Type="Tables" />
+    <EntitySet Name="game_table_host" EntityType="Self.game_table_host" Schema="players" store:Type="Tables" />
+    <EntitySet Name="parametars_table" EntityType="Self.parametars_table" Schema="players" store:Type="Tables" />
+    <EntitySet Name="player_character" EntityType="Self.player_character" Schema="players" store:Type="Tables" />
+    <EntitySet Name="position_of_players_table" EntityType="Self.position_of_players_table" Schema="players" store:Type="Tables" />
+    <EntitySet Name="teamsinfo" EntityType="Self.teamsinfo" Schema="players" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="playersModelStoreContainer" CdmEntityContainer="playersEntities">
+    <EntitySetMapping Name="game_table_guest">
+      <EntityTypeMapping TypeName="playersModel.game_table_guest">
+        <MappingFragment StoreEntitySet="game_table_guest">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Player_id" ColumnName="Player_id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="EfficiencyAtTheTime" ColumnName="EfficiencyAtTheTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="game_table_host">
+      <EntityTypeMapping TypeName="playersModel.game_table_host">
+        <MappingFragment StoreEntitySet="game_table_host">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Player_id" ColumnName="Player_id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="EfficiencyAtTheTime" ColumnName="EfficiencyAtTheTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="parametars_table">
+      <EntityTypeMapping TypeName="playersModel.parametars_table">
+        <MappingFragment StoreEntitySet="parametars_table">
+          <ScalarProperty Name="EfficiancyRaiseMinimum" ColumnName="EfficiancyRaiseMinimum" />
+          <ScalarProperty Name="EfficiancyRaiseMaximum" ColumnName="EfficiancyRaiseMaximum" />
+          <ScalarProperty Name="EfficiancyDeclineMinimum" ColumnName="EfficiancyDeclineMinimum" />
+          <ScalarProperty Name="EfficiancyDeclineMaximum" ColumnName="EfficiancyDeclineMaximum" />
+          <ScalarProperty Name="MinimalAgeForDraft" ColumnName="MinimalAgeForDraft" />
+          <ScalarProperty Name="MinimalAllowedEfficiancy" ColumnName="MinimalAllowedEfficiancy" />
+          <ScalarProperty Name="MaximumAllowedEfficiancy" ColumnName="MaximumAllowedEfficiancy" />
+          <ScalarProperty Name="EmotionalConst" ColumnName="EmotionalConst" />
+          <ScalarProperty Name="PhysicalConst" ColumnName="PhysicalConst" />
+          <ScalarProperty Name="IntellectuallConst" ColumnName="IntellectuallConst" />
+          <ScalarProperty Name="DailyStatus" ColumnName="DailyStatus" />
+          <ScalarProperty Name="Primary_id" ColumnName="Primary_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="player_character">
+      <EntityTypeMapping TypeName="playersModel.player_character">
+        <MappingFragment StoreEntitySet="player_character">
+          <ScalarProperty Name="Personal_id" ColumnName="Personal_id" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Positon" ColumnName="Positon" />
+          <ScalarProperty Name="Team" ColumnName="Team" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="DateOfDraft" ColumnName="DateOfDraft" />
+          <ScalarProperty Name="DeclineDate" ColumnName="DeclineDate" />
+          <ScalarProperty Name="RetireDate" ColumnName="RetireDate" />
+          <ScalarProperty Name="DraftOverall" ColumnName="DraftOverall" />
+          <ScalarProperty Name="MaximumOverall" ColumnName="MaximumOverall" />
+          <ScalarProperty Name="DeclineFactor" ColumnName="DeclineFactor" />
+          <ScalarProperty Name="RaiseFactor" ColumnName="RaiseFactor" />
+          <ScalarProperty Name="EmotionalConst" ColumnName="EmotionalConst" />
+          <ScalarProperty Name="PhysicalConst" ColumnName="PhysicalConst" />
+          <ScalarProperty Name="IntellectualConst" ColumnName="IntellectualConst" />
+          <ScalarProperty Name="DailyStatus" ColumnName="DailyStatus" />
+          <ScalarProperty Name="PeakTimeDay" ColumnName="PeakTimeDay" />
+          <ScalarProperty Name="EfficeincyToDate" ColumnName="EfficeincyToDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="position_of_players_table">
+      <EntityTypeMapping TypeName="playersModel.position_of_players_table">
+        <MappingFragment StoreEntitySet="position_of_players_table">
+          <ScalarProperty Name="Position_id" ColumnName="Position_id" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="teamsinfo">
+      <EntityTypeMapping TypeName="playersModel.teamsinfo">
+        <MappingFragment StoreEntitySet="teamsinfo">
+          <ScalarProperty Name="Team_id" ColumnName="Team_id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="Coach" ColumnName="Coach" />
+          <ScalarProperty Name="Manager" ColumnName="Manager" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="EstablishmentDate" ColumnName="EstablishmentDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
